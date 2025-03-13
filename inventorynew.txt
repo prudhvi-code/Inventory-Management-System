@@ -1,0 +1,4 @@
+1,Fuse,20,60
+2,Milky Bar,10,200
+3,Cake,300,300
+4,DiaryMilk,10,150
